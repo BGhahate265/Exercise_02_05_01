@@ -18,8 +18,8 @@
                 echo "<a href=\"$dir/$curFile\">$curFile</a><br>\n";
             }
         }
-        closedir($openDir);
-        ?>
+        closedir($openDir); 
+        ?> 
         
     </body>
 </html>
